@@ -7,7 +7,7 @@ Onde o objetivo consistia em criar as seguintes funcionalidades para aplicação
 ✖ Remover uma tarefa;<br/>
 ✔ Marcar ou desmarcar uma tarefa como concluída;
 ## Aplicação final:
-![todolist](https://media1.tenor.com/images/aa871bb225e90e2ce90abb4b0bc1e120/tenor.gif?itemid=20703358)
+![todolist](https://s4.gifyu.com/images/todolist.gif)
 
 - - - 
 Feito por [Jessica Marques](https://github.com/jessicaMarquess)🖤 através de [Rocketseat](https://rocketseat.com.br/)🚀.
